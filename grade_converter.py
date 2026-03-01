@@ -15,6 +15,7 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 print("===== Grade Converter =====")
+print()
 
 grade = int(input(Enter a numerical grade (1-100): "))
 
