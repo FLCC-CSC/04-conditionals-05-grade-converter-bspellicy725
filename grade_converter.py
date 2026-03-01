@@ -17,7 +17,7 @@
 print("===== Grade Converter =====")
 print()
 
-grade = int(input(Enter a numerical grade (1-100): "))
+grade = int(input("Enter a numerical grade (1-100): "))
 
 if grade > 100:
     print("A+")
